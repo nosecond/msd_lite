@@ -5,7 +5,7 @@ msgstr ""
 
 #: luci-app-msd-lite
 msgid "Multi Stream daemon Lite"
-msgstr "多流守护进程精简版"
+msgstr "Msd_lite"
 
 msgid "The lightweight version of Multi Stream daemon (msd) for organizing IPTV streaming over HTTP."
 msgstr "精简版 Multi Stream daemon (msd)，用于通过 HTTP 组织 IPTV 流媒体传输。"
